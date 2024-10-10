@@ -1,0 +1,16 @@
+# Node.js
+# Ignore node_modules and log files for Node API
+Node-api/node_modules/
+Node-api/build/
+ 
+
+# React
+# Ignore node_modules and build files for React frontend
+React-frontend/node_modules/
+React-frontend/build/
+
+ 
+
+# Miscellaneous
+*.DS_Store       # macOS
+Thumbs.db        # Windows
